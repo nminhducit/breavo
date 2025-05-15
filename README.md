@@ -66,7 +66,7 @@ The system has been tested under various conditions to ensure accuracy and relia
 ```
 breavo/
 ├── src/                    # Source code
-│   └── Smart_Alcohol_BREAVO_V1.ino  # Main Arduino sketch
+│   └── main.ino            # Main Arduino sketch
 ├── hardware/               # Circuit diagrams and hardware specifications
 │   ├── circuit_diagram.png
 │   └── parts_list.md
@@ -90,12 +90,12 @@ breavo/
 
 1. Clone this repository:
    ```
-   git clone https://github.com/username/breavo.git
+   git clone https://github.com/nminhducit/breavo.git
    ```
 
 2. Open the Arduino IDE and load the main sketch:
    ```
-   File > Open > [path_to_repository]/src/Smart_Alcohol_BREAVO_V1.ino
+   File > Open > [path_to_repository]/src/main.ino
    ```
 
 3. Install required libraries through Arduino IDE:
