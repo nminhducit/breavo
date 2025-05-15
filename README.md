@@ -1,7 +1,5 @@
 # BREAVO: Smart Alcohol Detection and Warning System
 
-![BREAVO Device](https://raw.githubusercontent.com/nminhducit/breavo/main/docs/images/banner.png)
-
 ## 📋 Overview
 
 BREAVO is an IoT-based Smart Alcohol Detection and Warning System designed to enhance traffic safety by providing accurate blood alcohol concentration (BAC) measurements through breath analysis. The system offers real-time feedback with intuitive visual and audio alerts when alcohol levels exceed legal limits.
