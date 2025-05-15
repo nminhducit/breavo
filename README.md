@@ -140,8 +140,8 @@ For optimal performance, the device should be calibrated periodically:
 ## 👥 Contributors
 
 - Nguyen Minh Duc (HE180274)
-- Nguyen Tung Duong (HE180274)
-- Nguyen Quoc Anh (HE180274)
+- Nguyen Tung Duong (HE180156)
+- Nguyen Quoc Anh (HE180898)
 
 ## 📄 License
 
