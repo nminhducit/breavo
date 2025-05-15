@@ -56,7 +56,7 @@ We welcome suggestions for improvements! Please create an issue with:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/username/breavo.git
+   git clone https://github.com/nminhducit/breavo.git
    cd breavo
    ```
 
