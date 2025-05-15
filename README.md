@@ -50,7 +50,7 @@ The system operates following this workflow:
 
 The hardware connections follow this schematic:
 
-![Circuit Diagram](https://raw.githubusercontent.com/nminhducit/breavo/main/docs/images/circuit-diagra.png)
+![Circuit Diagram](https://raw.githubusercontent.com/nminhducit/breavo/main/docs/images/circuit-diagram.png)
 
 ## 🧪 Performance and Testing
 
