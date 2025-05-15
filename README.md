@@ -1,6 +1,6 @@
 # BREAVO: Smart Alcohol Detection and Warning System
 
-![BREAVO Device](https://raw.githubusercontent.com/nminhducit/breavo/main/docs/images/banner.jpg)
+![BREAVO Device](https://raw.githubusercontent.com/nminhducit/breavo/main/docs/images/banner.png)
 
 ## 📋 Overview
 
@@ -18,9 +18,9 @@ BREAVO is an IoT-based Smart Alcohol Detection and Warning System designed to en
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/nminhducit/breavo/main/docs/images/device-standby.jpg" alt="Standby Mode" width="300"/></td>
-    <td><img src="https://raw.githubusercontent.com/nminhducit/breavo/main/docs/images/device-pass.jpg" alt="Pass Result" width="300"/></td>
-    <td><img src="https://raw.githubusercontent.com/nminhducit/breavo/main/docs/images/device-fail.jpg" alt="Fail Result" width="300"/></td>
+    <td><img src="https://raw.githubusercontent.com/nminhducit/breavo/main/docs/images/device-standby.png" alt="Standby Mode" width="300"/></td>
+    <td><img src="https://raw.githubusercontent.com/nminhducit/breavo/main/docs/images/device-pass.png" alt="Pass Result" width="300"/></td>
+    <td><img src="https://raw.githubusercontent.com/nminhducit/breavo/main/docs/images/device-fail.png" alt="Fail Result" width="300"/></td>
   </tr>
 </table>
 
@@ -44,13 +44,13 @@ The system operates following this workflow:
 4. **Result Display**: Shows "PASS" or "FAIL" with corresponding LEDs/alarms
 5. **Reset**: Returns to standby mode after displaying results
 
-![System Flowchart](https://raw.githubusercontent.com/nminhducit/breavo/main/docs/images/flowchart.jpg)
+![System Flowchart](https://raw.githubusercontent.com/nminhducit/breavo/main/docs/images/flowchart.png)
 
 ## ⚡ Circuit Diagram
 
 The hardware connections follow this schematic:
 
-![Circuit Diagram](https://raw.githubusercontent.com/nminhducit/breavo/main/docs/images/circuit-diagram.jpg)
+![Circuit Diagram](https://raw.githubusercontent.com/nminhducit/breavo/main/docs/images/circuit-diagram.png)
 
 ## 🧪 Performance and Testing
 
